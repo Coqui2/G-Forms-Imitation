@@ -1,0 +1,16 @@
+.questionInput{
+    width: 660px;
+
+}
+
+.answerInput{
+    width: 660px;
+}
+
+li{
+    width: 660px;
+    margin-bottom: 5px;
+    border-radius: 6px;
+    background-color: white;
+    
+}

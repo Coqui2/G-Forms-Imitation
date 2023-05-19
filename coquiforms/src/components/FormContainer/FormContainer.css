@@ -1,0 +1,17 @@
+.prueba{
+    color: white;
+    background-color: #aa8adfd7;
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    margin: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.prueba:hover{
+    background-color: #916fc7d7;
+    color: white;
+    border-style: none;
+}

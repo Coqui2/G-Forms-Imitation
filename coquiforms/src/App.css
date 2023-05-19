@@ -1,0 +1,75 @@
+
+
+
+.App {
+  width: 100vw;
+  height: 100vh;
+  background: #f0ebf8;
+  display: flex;
+  justify-content: center;
+}
+
+
+.header{
+  position: relative;
+  position: fixed;
+  width: 100vw;
+  height: 100px;
+  background : white;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(177, 175, 175);
+  display: flex;
+  
+}
+
+
+.title{
+  position: absolute;
+  top:0px;
+  left:40px;
+
+}
+
+.optionContainer {
+  margin: auto;
+  bottom:0px; 
+}
+
+
+
+
+.bodyContainer{
+  top:115px;
+  
+  overflow-x: auto;
+  margin-top: 0;
+  width: 45%; 
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.formContainer{
+  width: 700px;
+  background: white;
+  border-radius: 10px;
+  border-color: grey;
+  border-width: 2px;
+}
+
+.inputBox{
+  font-size: large;
+  height: 40px;
+  width: 670px;
+  margin: 10px;
+  border-radius: 4px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgray;
+  
+}

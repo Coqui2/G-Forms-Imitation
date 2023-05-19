@@ -1,0 +1,23 @@
+
+
+.titleContainerMain{
+    width: 700px;
+    border: 0.5px solid rgb(194, 194, 194);
+    border-radius: 10px;
+    background: white;
+}
+
+
+.titleContainerInput{
+    width: calc(100% - 20px);
+    margin: 10px !important;
+}
+
+.titleTileInput > input{
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.titleDescriptionInput{
+    font: 10px;
+}

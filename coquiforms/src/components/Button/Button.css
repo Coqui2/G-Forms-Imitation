@@ -1,0 +1,21 @@
+
+
+.header-btn {
+  
+    width: 90px;
+    height: 30px;
+    border:none;
+    background: white;
+    text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: #cf7070;
+    border-width: 2.5px;
+    cursor: pointer;
+    
+  }
+  
+.header-btn:hover{
+background: #ffe3e3;
+border-bottom-color: #ff5e5e;
+}
+

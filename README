@@ -1,0 +1,4 @@
+To start up the app just run:
+
+- npm install
+- node app.js
